@@ -178,6 +178,7 @@ class PhysicsSim : public IEventReceiver
 		void drawLine(Vector3D pos, Vector3D vec, Color c = Color(255, 255, 255, 255));
 
     public:
+        void setTexture(PhysicalObject* object, stringw texture_file);
         PhysicsSim(stringw windowTitle = "CRAb Physics Simulator", uint width = 640, uint height = 480, bool render = true);
         ~PhysicsSim();
 

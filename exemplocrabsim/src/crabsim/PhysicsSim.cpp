@@ -47,6 +47,16 @@ RenderTarget::RenderTarget()
 
 }
 
+void PhysicsSim::setTexture(PhysicalObject* object, stringw tex_file){
+    ISceneNode* isn = object->getSceneNode();
+	tex_file = mediaDirectory + tex_file;
+	if(smgr->getFileSystem()->existFile(tex_file))
+    isn->setMaterialTexture(0, driver->getTexture(tex_file));
+	isn->setMaterialFlag(EMF_LIGHTING, true);
+	isn->setMaterialFlag(EMF_TEXTURE_WRAP, false);
+	isn->setMaterialFlag(EMF_BACK_FACE_CULLING, true);
+}
+
 void RenderTarget::init(IrrlichtDevice* dvc)
 {
 	this->smgr = dvc->getSceneManager();
@@ -115,8 +125,10 @@ PhysicsSim::PhysicsSim(stringw windowTitle, uint width, uint height, bool render
 	#ifndef NO_GRAPHICS
 	if(render)
 	{
+	    params.Vsync = true;
 		params.DriverType = video::EDT_OPENGL;
 		params.WindowSize = core::dimension2d<u32>(width, height);
+		params.Fullscreen = true;
 		params.AntiAlias = 4;
 		params.Stencilbuffer = false;
 	}
@@ -568,8 +580,16 @@ void PhysicsSim::addSky(stringw skydome_file)
 
 void PhysicsSim::makeLight(vector3df position, float intensity)
 {
-    smgr->addLightSceneNode(0, position, video::SColorf(1.f, 1.f, 1.f), intensity);
-    smgr->setAmbientLight(SColorf(0.4f, 0.4f, 0.4f));
+    ILightSceneNode* lsn = smgr->addLightSceneNode(0, position, video::SColorf(1.f, 1.f, 1.f), 1);
+//    smgr->setAmbientLight(SColorf(0.2, 0.2, 0.2));
+
+    SLight sl = lsn->getLightData();
+    sl.Attenuation = Vector3D(0, 0.001, 0);
+    sl.DiffuseColor = SColorf(1, 1, 1);
+    sl.Direction = Vector3D(0, -1, 0);
+    sl.AmbientColor = SColorf(0.4, 0.4, 0.4);
+
+    lsn->setLightData(sl);
 }
 
 SceneObject* PhysicsSim::loadSceneObject(stringw mesh_file, stringw texture_file)
@@ -590,10 +610,11 @@ SceneObject* PhysicsSim::loadSceneObject(stringw mesh_file, stringw texture_file
 	tex_file = mediaDirectory + tex_file;
 	if(smgr->getFileSystem()->existFile(tex_file))
 		Node->setMaterialTexture(0, driver->getTexture(tex_file));
-	Node->setMaterialFlag(EMF_LIGHTING, false);
+	Node->setMaterialFlag(EMF_LIGHTING, true);
 	Node->setMaterialFlag(EMF_TEXTURE_WRAP, false);
 	Node->setMaterialFlag(EMF_BACK_FACE_CULLING, true);
 	Node->addShadowVolumeSceneNode(0,-1,false);
+	Node->getMaterial(0).AmbientColor.set(255,255,255,255);
 
 	updateObjects();
 	return Node;
@@ -741,7 +762,7 @@ bool PhysicsSim::loadPhysicalObjects(PhysicalStructure &structure, stringc mesh_
 
 				if(mesh){
 					IAnimatedMeshSceneNode* node = smgr->addAnimatedMeshSceneNode(mesh, smgr->getRootSceneNode());
-					node->setMaterialFlag(EMF_LIGHTING, false);
+					node->setMaterialFlag(EMF_LIGHTING, true);
 					node->setMaterialFlag(EMF_TEXTURE_WRAP, false);
 					node->setMaterialFlag(EMF_BACK_FACE_CULLING, false);
 					node->addShadowVolumeSceneNode(0,-1,false);
