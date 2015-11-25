@@ -26,11 +26,8 @@ static bool eventFunction(PhysicsSim *engine, const SEvent &event){
 
 	if (event.EventType == EET_KEY_INPUT_EVENT){
         switch( event.KeyInput.Key ){
-            case KEY_KEY_W:
-                //snowboard.bodies[0]->getRigidBody()->setLinearVelocity(btVector3(0, 0, 20));
-                break;
-            case KEY_KEY_S:
-                //snowboard.bodies[0]->getRigidBody()->setLinearVelocity(btVector3(0, 0, -20));
+            case KEY_KEY_M:
+                menu = true;
                 break;
             case KEY_KEY_A:
                 turnLeft();
@@ -46,23 +43,18 @@ static bool eventFunction(PhysicsSim *engine, const SEvent &event){
                 creditos = false;
                 q = btTransform(heroBase.getBasis());
                 boneco->getRigidBody()->proceedToTransform(heroBase);
-                //heroPos = boneco->getPosition();
-                //boneco->translate(Vector3D(-heroPos.X, -heroPos.Y + 1, -heroPos.Z));
                 if(event.KeyInput.PressedDown){
                     engine->pause();
                 }
                 boneco->getRigidBody()->clearForces();
                 boneco->getRigidBody()->setAngularVelocity(btVector3(0, 0, 0));
                 boneco->getRigidBody()->setLinearVelocity(btVector3(0, 0, 0));
-                cout << "pausou" << endl;
                 break;
             case KEY_KEY_C:
                 creditos = true;
                 break;
             case KEY_KEY_X:
                 cout << "Boneco: " << boneco->getPosition().X << ", " << boneco->getPosition().Y << ", " << boneco->getPosition().Z << endl;
-                cout << "Camera P: " << fpscam->getPosition().X << ", " << fpscam->getPosition().Y << ", " << fpscam->getPosition().Z << endl;
-                cout << "Camera T: " << fpscam->getTarget().X << ", " << fpscam->getTarget().Y << ", " << fpscam->getTarget().Z << endl;
                 break;
         }
 	}
@@ -89,6 +81,20 @@ int main(int argn, char* args[])
 
     engine.loadPhysicalObjects(percurso, "course2\\MyCourse2.dae");
 
+    PhysicalStructure tree;
+    engine.loadPhysicalObjects(tree, "course2\\tree.dae");
+
+//    tree.bodies[0]->lock3D();
+//
+//    tree.bodies[0]->translate(Vector3D(20, -3, -40));
+//
+//    PhysicalStructure tree1;
+//    engine.loadPhysicalObjects(tree1, "course2\\tree.dae");
+//
+//    tree1.bodies[0]->lock3D();
+//
+//    tree1.bodies[0]->translate(Vector3D(-20, -3, -40));
+
     boneco->translate(Vector3D(0, 10, 0));
 
     for(int i = 0; i < percurso.bodies.size(); i++){
@@ -98,13 +104,8 @@ int main(int argn, char* args[])
 
     Vector3D vec = Vector3D(0, 0, 1);
     heroBase = boneco->getRigidBody()->getCenterOfMassTransform();
-    engine.setGravity(40);
+    engine.setGravity(30);
 
-    btTransform t = boneco->getRigidBody()->getCenterOfMassTransform();
-    btMatrix3x3 mat = t.getBasis();
-    btVector3 zAxis = mat.getColumn(0);
-
-    //boneco->getRigidBody()->applyCentralForce((zAxis * 10));
     boneco->setFriction(0);
 	while(engine.run()){
         if(menu){
@@ -113,13 +114,11 @@ int main(int argn, char* args[])
             engine.drawImage("credits.jpg");
         } else {
             Vector3D mR = malha->getRotation();
-            cout << mR.X << ", " << mR.Y << ", " << mR.Z << endl;
             btTransform t = boneco->getRigidBody()->getCenterOfMassTransform();
             btMatrix3x3 mat = t.getBasis();
             btVector3 zAxis = mat.getColumn(0);
             vec = Vector3D(zAxis.x(), zAxis.y(), zAxis.z());
             heroPos = boneco->getPosition();
-            boneco->getRigidBody()->clearForces();
 //            boneco->getRigidBody()->applyCentralForce((zAxis));
             fpscam->setPosition((heroPos - 20 * vec) + Vector3D(0,10,0));
             fpscam->setTarget(heroPos);

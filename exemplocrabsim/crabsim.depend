@@ -16852,3 +16852,2794 @@
 1447244157 source:c:\users\mk-nb\desktop\skatehero\exemplocrabsim\src\crabsim\physicalobject.cpp
 	"PhysicalObject.h"
 
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btoptimizedbvh.cpp
+	"btOptimizedBvh.h"
+	"btStridingMeshInterface.h"
+	"LinearMath/btAabbUtil2.h"
+	"LinearMath/btIDebugDraw.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btoptimizedbvh.h
+	"BulletCollision/BroadphaseCollision/btQuantizedBvh.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btquantizedbvh.h
+	<stdio.h>
+	<stdlib.h>
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btvector3.h
+	"btScalar.h"
+	"btMinMax.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btscalar.h
+	<math.h>
+	<stdlib.h>
+	<cstdlib>
+	<cfloat>
+	<float.h>
+	<ppcintrinsics.h>
+	<emmintrin.h>
+	<assert.h>
+	<assert.h>
+	<spu_printf.h>
+	<assert.h>
+	<emmintrin.h>
+	<assert.h>
+	<assert.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btminmax.h
+	"LinearMath/btScalar.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btalignedallocator.h
+	"btScalar.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btalignedobjectarray.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<memory.h>
+	<string.h>
+	<new>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.h
+	"LinearMath/btVector3.h"
+	"btTriangleCallback.h"
+	"btConcaveShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttrianglecallback.h
+	"LinearMath/btVector3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconcaveshape.h
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btTriangleCallback.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btcollisionshape.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\bttransform.h
+	"btMatrix3x3.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btmatrix3x3.h
+	"btVector3.h"
+	"btQuaternion.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btquaternion.h
+	"btVector3.h"
+	"btQuadWord.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btquadword.h
+	"btScalar.h"
+	"btMinMax.h"
+	<altivec.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btaabbutil2.h
+	"btTransform.h"
+	"btVector3.h"
+	"btMinMax.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btidebugdraw.h
+	"btVector3.h"
+	"btTransform.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.cpp
+	"BulletCollision/CollisionShapes/btPolyhedralConvexShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btpolyhedralconvexshape.h
+	"LinearMath/btMatrix3x3.h"
+	"btConvexInternalShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvexinternalshape.h
+	"btConvexShape.h"
+	"LinearMath/btAabbUtil2.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvexshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btcollisionmargin.h
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btscaledbvhtrianglemeshshape.cpp
+	"btScaledBvhTriangleMeshShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btscaledbvhtrianglemeshshape.h
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btbvhtrianglemeshshape.h
+	"btTriangleMeshShape.h"
+	"btOptimizedBvh.h"
+	"LinearMath/btAlignedAllocator.h"
+	"btTriangleInfoMap.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttrianglemeshshape.h
+	"btConcaveShape.h"
+	"btStridingMeshInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttriangleinfomap.h
+	"LinearMath/btHashMap.h"
+	"LinearMath/btSerializer.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\bthashmap.h
+	"btAlignedObjectArray.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btserializer.h
+	"btScalar.h"
+	"btStackAlloc.h"
+	"btHashMap.h"
+	<memory.h>
+	<string.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btstackalloc.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btshapehull.cpp
+	"btShapeHull.h"
+	"LinearMath/btConvexHull.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btshapehull.h
+	"LinearMath/btAlignedObjectArray.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btconvexhull.h
+	"btVector3.h"
+	"btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btsphereshape.cpp
+	"btSphereShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btsphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btstaticplaneshape.cpp
+	"btStaticPlaneShape.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btstaticplaneshape.h
+	"btConcaveShape.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\bttransformutil.h
+	"btTransform.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btstridingmeshinterface.cpp
+	"btStridingMeshInterface.h"
+	"LinearMath/btSerializer.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttetrahedronshape.cpp
+	"btTetrahedronShape.h"
+	"LinearMath/btMatrix3x3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttetrahedronshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttrianglebuffer.cpp
+	"btTriangleBuffer.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttrianglebuffer.h
+	"btTriangleCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttrianglecallback.cpp
+	"btTriangleCallback.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttriangleindexvertexarray.cpp
+	"btTriangleIndexVertexArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttriangleindexvertexarray.h
+	"btStridingMeshInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btScalar.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttriangleindexvertexmaterialarray.cpp
+	"btTriangleIndexVertexMaterialArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttriangleindexvertexmaterialarray.h
+	"btTriangleIndexVertexArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttrianglemesh.cpp
+	"btTriangleMesh.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttrianglemesh.h
+	"btTriangleIndexVertexArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\bttrianglemeshshape.cpp
+	"btTriangleMeshShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btQuaternion.h"
+	"btStridingMeshInterface.h"
+	"LinearMath/btAabbUtil2.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btuniformscalingshape.cpp
+	"btUniformScalingShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btuniformscalingshape.h
+	"btConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btcontactprocessing.cpp
+	"btContactProcessing.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btcontactprocessing.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btTriangleShapeEx.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\bttriangleshapeex.h
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"btBoxCollision.h"
+	"btClipPolygon.h"
+	"btGeometryOperations.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\bttriangleshape.h
+	"btConvexShape.h"
+	"btBoxShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btboxshape.h
+	"btPolyhedralConvexShape.h"
+	"btCollisionMargin.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMinMax.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btboxcollision.h
+	"LinearMath/btTransform.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btclippolygon.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btGeometryUtil.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btgeometryutil.h
+	"btVector3.h"
+	"btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgeometryoperations.h
+	"btBoxCollision.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btgenericpoolallocator.cpp
+	"btGenericPoolAllocator.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgenericpoolallocator.h
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	"LinearMath/btAlignedAllocator.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btgimpactbvh.cpp
+	"btGImpactBvh.h"
+	"LinearMath/btQuickprof.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgimpactbvh.h
+	"LinearMath/btAlignedObjectArray.h"
+	"btBoxCollision.h"
+	"btTriangleShapeEx.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btquickprof.h
+	<stdio.h>
+	"btScalar.h"
+	"btAlignedAllocator.h"
+	<new>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btgimpactcollisionalgorithm.cpp
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"LinearMath/btIDebugDraw.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"btGImpactCollisionAlgorithm.h"
+	"btContactProcessing.h"
+	"LinearMath/btQuickprof.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btmanifoldresult.h
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"LinearMath/btTransform.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btpersistentmanifold.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btManifoldPoint.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btmanifoldpoint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btdiscretecollisiondetectorinterface.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcollisionobject.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btmotionstate.h
+	"btTransform.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgimpactcollisionalgorithm.h
+	"BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btGImpactShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.h"
+	"LinearMath/btIDebugDraw.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btcollisionalgorithm.h
+	"LinearMath/btScalar.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btdispatcher.h
+	"LinearMath/btScalar.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btbroadphaseinterface.h
+	"btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcollisioncreatefunc.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcollisiondispatcher.h
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionCreateFunc.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgimpactshape.h
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/CollisionShapes/btStridingMeshInterface.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletCollision/CollisionShapes/btConcaveShape.h"
+	"BulletCollision/CollisionShapes/btTetrahedronShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btGImpactQuantizedBvh.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcollisionworld.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"btCollisionObject.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btoverlappingpaircache.h
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btoverlappingpaircallback.h
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgimpactquantizedbvh.h
+	"btGImpactBvh.h"
+	"btQuantization.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btquantization.h
+	"LinearMath/btTransform.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btcompoundshape.h
+	"btCollisionShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btconvexconvexalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btgjkpairdetector.h
+	"btDiscreteCollisionDetectorInterface.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"btSimplexSolverInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btsimplexsolverinterface.h
+	"LinearMath/btVector3.h"
+	"btVoronoiSimplexSolver.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btvoronoisimplexsolver.h
+	"btSimplexSolverInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btgimpactquantizedbvh.cpp
+	"btGImpactQuantizedBvh.h"
+	"LinearMath/btQuickprof.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\btgimpactshape.cpp
+	"btGImpactShape.h"
+	"btGImpactMassUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\btgimpactmassutil.h
+	"LinearMath/btTransform.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\bttriangleshapeex.cpp
+	"btTriangleShapeEx.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\gim_box_set.cpp
+	"gim_box_set.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_box_set.h
+	"gim_array.h"
+	"gim_radixsort.h"
+	"gim_box_collision.h"
+	"gim_tri_collision.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_array.h
+	"gim_memory.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_memory.h
+	"gim_math.h"
+	<string.h>
+	<xmmintrin.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_math.h
+	"LinearMath/btScalar.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_radixsort.h
+	"gim_memory.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_box_collision.h
+	"gim_basic_geometry_operations.h"
+	"LinearMath/btTransform.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_basic_geometry_operations.h
+	"gim_linear_math.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_linear_math.h
+	"gim_math.h"
+	"gim_geom_types.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_geom_types.h
+	"gim_math.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_tri_collision.h
+	"gim_box_collision.h"
+	"gim_clip_polygon.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_clip_polygon.h
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\gim_contact.cpp
+	"gim_contact.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_contact.h
+	"gim_geometry.h"
+	"gim_radixsort.h"
+	"gim_array.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\gimpact\gim_geometry.h
+	"gim_basic_geometry_operations.h"
+	"gim_clip_polygon.h"
+	"gim_box_collision.h"
+	"gim_tri_collision.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\gim_memory.cpp
+	"gim_memory.h"
+	"stdlib.h"
+	"LinearMath/btAlignedAllocator.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\gimpact\gim_tri_collision.cpp
+	"gim_tri_collision.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btcontinuousconvexcollision.cpp
+	"btContinuousConvexCollision.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h"
+	"LinearMath/btTransformUtil.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"btGjkPairDetector.h"
+	"btPointCollector.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btcontinuousconvexcollision.h
+	"btConvexCast.h"
+	"btSimplexSolverInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btconvexcast.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btScalar.h"
+	"LinearMath/btIDebugDraw.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btpointcollector.h
+	"btDiscreteCollisionDetectorInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btconvexcast.cpp
+	"btConvexCast.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btgjkconvexcast.cpp
+	"btGjkConvexCast.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"btGjkPairDetector.h"
+	"btPointCollector.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btgjkconvexcast.h
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btVector3.h"
+	"btConvexCast.h"
+	"btSimplexSolverInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btgjkepa2.cpp
+	"BulletCollision/CollisionShapes/btConvexInternalShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"btGjkEpa2.h"
+	<stdio.h>
+	<spu_printf.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btgjkepa2.h
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btgjkepapenetrationdepthsolver.cpp
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"btGjkEpaPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpa2.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btgjkepapenetrationdepthsolver.h
+	"btConvexPenetrationDepthSolver.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btconvexpenetrationdepthsolver.h
+	"btSimplexSolverInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btgjkpairdetector.cpp
+	"btGjkPairDetector.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h"
+	"BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h"
+	<stdio.h>
+	<spu_printf.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btminkowskipenetrationdepthsolver.cpp
+	"btMinkowskiPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btminkowskipenetrationdepthsolver.h
+	"btConvexPenetrationDepthSolver.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btsubsimplexconvexcast.h
+	"btConvexCast.h"
+	"btSimplexSolverInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btpersistentmanifold.cpp
+	"btPersistentManifold.h"
+	"LinearMath/btTransform.h"
+	<stdio.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btraycastcallback.cpp
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+	"btRaycastCallback.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\narrowphasecollision\btraycastcallback.h
+	"BulletCollision/CollisionShapes/btTriangleCallback.h"
+	"LinearMath/btTransform.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btsubsimplexconvexcast.cpp
+	"btSubSimplexConvexCast.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/CollisionShapes/btMinkowskiSumShape.h"
+	"BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h"
+	"btPointCollector.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btminkowskisumshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\narrowphasecollision\btvoronoisimplexsolver.cpp
+	"btVoronoiSimplexSolver.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\character\btkinematiccharactercontroller.cpp
+	"LinearMath/btIDebugDraw.h"
+	"BulletCollision/CollisionDispatch/btGhostObject.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"LinearMath/btDefaultMotionState.h"
+	"btKinematicCharacterController.h"
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btghostobject.h
+	"btCollisionObject.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h"
+	"LinearMath/btAlignedAllocator.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"btCollisionWorld.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btmultisphereshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btAabbUtil2.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btdefaultmotionstate.h
+	"btMotionState.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\character\btkinematiccharactercontroller.h
+	"LinearMath/btVector3.h"
+	"btCharacterControllerInterface.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\character\btcharactercontrollerinterface.h
+	"LinearMath/btVector3.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btactioninterface.h
+	"LinearMath/btScalar.h"
+	"btRigidBody.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btrigidbody.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btaxissweep3.cpp
+	"btAxisSweep3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btaxissweep3.h
+	"LinearMath/btVector3.h"
+	"btOverlappingPairCache.h"
+	"btBroadphaseInterface.h"
+	"btBroadphaseProxy.h"
+	"btOverlappingPairCallback.h"
+	"btDbvtBroadphase.h"
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btdbvtbroadphase.h
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btQuickprof.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btdbvt.h
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btAabbUtil2.h"
+	<emmintrin.h>
+	<memory.h>
+	<string.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btbroadphaseproxy.cpp
+	"btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btcollisionalgorithm.cpp
+	"btCollisionAlgorithm.h"
+	"btDispatcher.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btdbvt.cpp
+	"btDbvt.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinearMath/btQuickProf.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btdbvtbroadphase.cpp
+	"btDbvtBroadphase.h"
+	<stdio.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btdispatcher.cpp
+	"btDispatcher.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btmultisapbroadphase.cpp
+	"btMultiSapBroadphase.h"
+	"btSimpleBroadphase.h"
+	"LinearMath/btAabbUtil2.h"
+	"btQuantizedBvh.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btmultisapbroadphase.h
+	"btBroadphaseInterface.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btOverlappingPairCache.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\broadphasecollision\btsimplebroadphase.h
+	"btOverlappingPairCache.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btoverlappingpaircache.cpp
+	"btOverlappingPairCache.h"
+	"btDispatcher.h"
+	"btCollisionAlgorithm.h"
+	"LinearMath/btAabbUtil2.h"
+	<stdio.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btquantizedbvh.cpp
+	"btQuantizedBvh.h"
+	"LinearMath/btAabbUtil2.h"
+	"LinearMath/btIDebugDraw.h"
+	"LinearMath/btSerializer.h"
+	<new>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\broadphasecollision\btsimplebroadphase.cpp
+	"btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btAabbUtil2.h"
+	<new>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btactivatingcollisionalgorithm.cpp
+	"btActivatingCollisionAlgorithm.h"
+	"btCollisionDispatcher.h"
+	"btCollisionObject.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btbox2dbox2dcollisionalgorithm.cpp
+	"btBox2dBox2dCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionDispatch/btBoxBoxDetector.h"
+	"BulletCollision/CollisionShapes/btBox2dShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btbox2dbox2dcollisionalgorithm.h
+	"BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btboxboxdetector.h
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btbox2dshape.h
+	"BulletCollision/CollisionShapes/btPolyhedralConvexShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btMinMax.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btboxboxcollisionalgorithm.cpp
+	"btBoxBoxCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"btBoxBoxDetector.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btboxboxcollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btboxboxdetector.cpp
+	"btBoxBoxDetector.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	<float.h>
+	<string.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btcollisiondispatcher.cpp
+	"btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/BroadphaseCollision/btOverlappingPairCache.h"
+	"LinearMath/btPoolAllocator.h"
+	"BulletCollision/CollisionDispatch/btCollisionConfiguration.h"
+	<stdio.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\linearmath\btpoolallocator.h
+	"btScalar.h"
+	"btAlignedAllocator.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcollisionconfiguration.h
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btcollisionobject.cpp
+	"btCollisionObject.h"
+	"LinearMath/btSerializer.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btcollisionworld.cpp
+	"btCollisionWorld.h"
+	"btCollisionDispatcher.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/NarrowPhaseCollision/btRaycastCallback.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"LinearMath/btAabbUtil2.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btStackAlloc.h"
+	"LinearMath/btSerializer.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/CollisionDispatch/btCollisionConfiguration.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionShapes/btConeShape.h"
+	"BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btCylinderShape.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btPolyhedralConvexShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btTriangleCallback.h"
+	"BulletCollision/CollisionShapes/btTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btcapsuleshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconeshape.h
+	"btConvexInternalShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvextrianglemeshshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btcylindershape.h
+	"btBoxShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btVector3.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btcompoundcollisionalgorithm.cpp
+	"BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"LinearMath/btIDebugDraw.h"
+	"LinearMath/btAabbUtil2.h"
+	"btManifoldResult.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btcompoundcollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btCollisionCreateFunc.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btconvex2dconvex2dalgorithm.cpp
+	"btConvex2dConvex2dAlgorithm.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpa2.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btconvex2dconvex2dalgorithm.h
+	"BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btconvexconcavecollisionalgorithm.cpp
+	"btConvexConcaveCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionShapes/btConcaveShape.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/NarrowPhaseCollision/btRaycastCallback.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"LinearMath/btIDebugDraw.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btconvexconcavecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"BulletCollision/CollisionShapes/btTriangleCallback.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"btCollisionCreateFunc.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btconvexconvexalgorithm.cpp
+	"btConvexConvexAlgorithm.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseInterface.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionDispatch/btManifoldResult.h"
+	"BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpa2.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btconvexplanecollisionalgorithm.cpp
+	"btConvexPlaneCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btconvexplanecollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+	"LinearMath/btVector3.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.cpp
+	"btDefaultCollisionConfiguration.h"
+	"BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btEmptyCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCompoundCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btConvexPlaneCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btSphereBoxCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"LinearMath/btStackAlloc.h"
+	"LinearMath/btPoolAllocator.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btdefaultcollisionconfiguration.h
+	"btCollisionConfiguration.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btemptycollisionalgorithm.h
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btspherespherecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btsphereboxcollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+	"LinearMath/btVector3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btspheretrianglecollisionalgorithm.h
+	"btActivatingCollisionAlgorithm.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"BulletCollision/CollisionDispatch/btCollisionCreateFunc.h"
+	"btCollisionDispatcher.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btemptycollisionalgorithm.cpp
+	"btEmptyCollisionAlgorithm.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btghostobject.cpp
+	"btGhostObject.h"
+	"btCollisionWorld.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"LinearMath/btAabbUtil2.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btinternaledgeutility.cpp
+	"btInternalEdgeUtility.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+	"LinearMath/btIDebugDraw.h"
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btinternaledgeutility.h
+	"LinearMath/btHashMap.h"
+	"LinearMath/btVector3.h"
+	"BulletCollision/CollisionShapes/btTriangleInfoMap.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btmanifoldresult.cpp
+	"btManifoldResult.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btsimulationislandmanager.cpp
+	"LinearMath/btScalar.h"
+	"btSimulationIslandManager.h"
+	"BulletCollision/BroadphaseCollision/btDispatcher.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"LinearMath/btQuickprof.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btsimulationislandmanager.h
+	"BulletCollision/CollisionDispatch/btUnionFind.h"
+	"btCollisionCreateFunc.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btCollisionObject.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\btunionfind.h
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btsphereboxcollisionalgorithm.cpp
+	"btSphereBoxCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btspherespherecollisionalgorithm.cpp
+	"btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btspheretrianglecollisionalgorithm.cpp
+	"btSphereTriangleCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"SphereTriangleDetector.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisiondispatch\spheretriangledetector.h
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\btunionfind.cpp
+	"btUnionFind.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisiondispatch\spheretriangledetector.cpp
+	"LinearMath/btScalar.h"
+	"SphereTriangleDetector.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btbox2dshape.cpp
+	"btBox2dShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btboxshape.cpp
+	"btBoxShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btbvhtrianglemeshshape.cpp
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btOptimizedBvh.h"
+	"LinearMath/btSerializer.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btcapsuleshape.cpp
+	"btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btcollisionshape.cpp
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"LinearMath/btSerializer.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btcompoundshape.cpp
+	"btCompoundShape.h"
+	"btCollisionShape.h"
+	"BulletCollision/BroadphaseCollision/btDbvt.h"
+	"LinearMath/btSerializer.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconcaveshape.cpp
+	"btConcaveShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconeshape.cpp
+	"btConeShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvex2dshape.cpp
+	"btConvex2dShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvex2dshape.h
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvexhullshape.cpp
+	"btConvexHullShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btSerializer.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvexhullshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvexinternalshape.cpp
+	"btConvexInternalShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvexpointcloudshape.cpp
+	"btConvexPointCloudShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btconvexpointcloudshape.h
+	"btPolyhedralConvexShape.h"
+	"BulletCollision/BroadphaseCollision/btBroadphaseProxy.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvexshape.cpp
+	"btConvexShape.h"
+	"btTriangleShape.h"
+	"btSphereShape.h"
+	"btCylinderShape.h"
+	"btCapsuleShape.h"
+	"btConvexHullShape.h"
+	"btConvexPointCloudShape.h"
+	<spu_intrinsics.h>
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btconvextrianglemeshshape.cpp
+	"btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+	"BulletCollision/CollisionShapes/btStridingMeshInterface.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btcylindershape.cpp
+	"btCylinderShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btemptyshape.cpp
+	"btEmptyShape.h"
+	"btCollisionShape.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btemptyshape.h
+	"btConcaveShape.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btMatrix3x3.h"
+	"btCollisionMargin.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btheightfieldterrainshape.cpp
+	"btHeightfieldTerrainShape.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btheightfieldterrainshape.h
+	"btConcaveShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btminkowskisumshape.cpp
+	"btMinkowskiSumShape.h"
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btmultimaterialtrianglemeshshape.cpp
+	"BulletCollision/CollisionShapes/btMultimaterialTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleIndexVertexMaterialArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btmultimaterialtrianglemeshshape.h
+	"btBvhTriangleMeshShape.h"
+	"btMaterial.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletcollision\collisionshapes\btmaterial.h
+
+1448428664 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletcollision\collisionshapes\btmultisphereshape.cpp
+	"btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btCollisionMargin.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btconetwistconstraint.cpp
+	"btConeTwistConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+	"LinearMath/btMinMax.h"
+	<new>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btconetwistconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btjacobianentry.h
+	"LinearMath/btVector3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\bttypedconstraint.h
+	"LinearMath/btScalar.h"
+	"btSolverConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btsolverconstraint.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"btJacobianEntry.h"
+	"btSolverBody.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btsolverbody.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btMatrix3x3.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btcontactconstraint.cpp
+	"btContactConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btContactSolverInfo.h"
+	"LinearMath/btMinMax.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+	"btContactConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btContactSolverInfo.h"
+	"LinearMath/btMinMax.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btcontactconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btcontactsolverinfo.h
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btgeneric6dofconstraint.cpp
+	"btGeneric6DofConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+	"LinearMath/btTransformUtil.h"
+	<new>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btgeneric6dofconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btgeneric6dofspringconstraint.cpp
+	"btGeneric6DofSpringConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btgeneric6dofspringconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\bthinge2constraint.cpp
+	"btHinge2Constraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\bthinge2constraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofSpringConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\bthingeconstraint.cpp
+	"btHingeConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+	"LinearMath/btMinMax.h"
+	<new>
+	"btSolverBody.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\bthingeconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btpoint2pointconstraint.cpp
+	"btPoint2PointConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	<new>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btpoint2pointconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.cpp
+	"btSequentialImpulseConstraintSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btPersistentManifold.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"btContactConstraint.h"
+	"btSolve2LinearConstraint.h"
+	"btContactSolverInfo.h"
+	"LinearMath/btIDebugDraw.h"
+	"btJacobianEntry.h"
+	"LinearMath/btMinMax.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	<new>
+	"LinearMath/btStackAlloc.h"
+	"LinearMath/btQuickprof.h"
+	"btSolverBody.h"
+	"btSolverConstraint.h"
+	"LinearMath/btAlignedObjectArray.h"
+	<string.h>
+	<emmintrin.h>
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btsequentialimpulseconstraintsolver.h
+	"btConstraintSolver.h"
+	"btContactConstraint.h"
+	"btSolverBody.h"
+	"btSolverConstraint.h"
+	"btTypedConstraint.h"
+	"BulletCollision/NarrowPhaseCollision/btManifoldPoint.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btconstraintsolver.h
+	"LinearMath/btScalar.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btsolve2linearconstraint.h
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btVector3.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btsliderconstraint.cpp
+	"btSliderConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+	<new>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btsliderconstraint.h
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+	"btTypedConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btsolve2linearconstraint.cpp
+	"btSolve2LinearConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btVector3.h"
+	"btJacobianEntry.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\bttypedconstraint.cpp
+	"btTypedConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\constraintsolver\btuniversalconstraint.cpp
+	"btUniversalConstraint.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"LinearMath/btTransformUtil.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\constraintsolver\btuniversalconstraint.h
+	"LinearMath/btVector3.h"
+	"btTypedConstraint.h"
+	"btGeneric6DofConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\dynamics\btcontinuousdynamicsworld.cpp
+	"btContinuousDynamicsWorld.h"
+	"LinearMath/btQuickprof.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionDispatch/btSimulationIslandManager.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btcontinuousdynamicsworld.h
+	"btDiscreteDynamicsWorld.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btdiscretedynamicsworld.h
+	"btDynamicsWorld.h"
+	"LinearMath/btAlignedObjectArray.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btdynamicsworld.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\dynamics\btdiscretedynamicsworld.cpp
+	"btDiscreteDynamicsWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h"
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletCollision/CollisionDispatch/btSimulationIslandManager.h"
+	"LinearMath/btTransformUtil.h"
+	"LinearMath/btQuickprof.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHingeConstraint.h"
+	"BulletDynamics/ConstraintSolver/btConeTwistConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSliderConstraint.h"
+	"LinearMath/btIDebugDraw.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btMotionState.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\dynamics\btrigidbody.cpp
+	"btRigidBody.h"
+	"BulletCollision/CollisionShapes/btConvexShape.h"
+	"LinearMath/btMinMax.h"
+	"LinearMath/btTransformUtil.h"
+	"LinearMath/btMotionState.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\dynamics\btsimpledynamicsworld.cpp
+	"btSimpleDynamicsWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/CollisionShapes/btCollisionShape.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/ConstraintSolver/btContactSolverInfo.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\dynamics\btsimpledynamicsworld.h
+	"btDynamicsWorld.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\dynamics\bullet-c-api.cpp
+	"Bullet-C-Api.h"
+	"btBulletDynamicsCommon.h"
+	"LinearMath/btAlignedAllocator.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btScalar.h"
+	"LinearMath/btMatrix3x3.h"
+	"LinearMath/btTransform.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/CollisionShapes/btTriangleShape.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkPairDetector.h"
+	"BulletCollision/NarrowPhaseCollision/btPointCollector.h"
+	"BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h"
+	"BulletCollision/NarrowPhaseCollision/btGjkEpa2.h"
+	"BulletCollision/CollisionShapes/btMinkowskiSumShape.h"
+	"BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h"
+	"BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h"
+	"BulletCollision/NarrowPhaseCollision/btMinkowskiPenetrationDepthSolver.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bullet-c-api.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\btbulletdynamicscommon.h
+	"btBulletCollisionCommon.h"
+	"BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btContinuousDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btSimpleDynamicsWorld.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHingeConstraint.h"
+	"BulletDynamics/ConstraintSolver/btConeTwistConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h"
+	"BulletDynamics/ConstraintSolver/btSliderConstraint.h"
+	"BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h"
+	"BulletDynamics/ConstraintSolver/btUniversalConstraint.h"
+	"BulletDynamics/ConstraintSolver/btHinge2Constraint.h"
+	"BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h"
+	"BulletDynamics/Vehicle/btRaycastVehicle.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\btbulletcollisioncommon.h
+	"BulletCollision/CollisionDispatch/btCollisionWorld.h"
+	"BulletCollision/CollisionDispatch/btCollisionObject.h"
+	"BulletCollision/CollisionShapes/btBoxShape.h"
+	"BulletCollision/CollisionShapes/btSphereShape.h"
+	"BulletCollision/CollisionShapes/btCapsuleShape.h"
+	"BulletCollision/CollisionShapes/btCylinderShape.h"
+	"BulletCollision/CollisionShapes/btConeShape.h"
+	"BulletCollision/CollisionShapes/btStaticPlaneShape.h"
+	"BulletCollision/CollisionShapes/btConvexHullShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMesh.h"
+	"BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleMeshShape.h"
+	"BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h"
+	"BulletCollision/CollisionShapes/btCompoundShape.h"
+	"BulletCollision/CollisionShapes/btTetrahedronShape.h"
+	"BulletCollision/CollisionShapes/btEmptyShape.h"
+	"BulletCollision/CollisionShapes/btMultiSphereShape.h"
+	"BulletCollision/CollisionShapes/btUniformScalingShape.h"
+	"BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h"
+	"BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h"
+	"BulletCollision/CollisionDispatch/btCollisionDispatcher.h"
+	"BulletCollision/BroadphaseCollision/btSimpleBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btAxisSweep3.h"
+	"BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h"
+	"BulletCollision/BroadphaseCollision/btDbvtBroadphase.h"
+	"LinearMath/btQuaternion.h"
+	"LinearMath/btTransform.h"
+	"LinearMath/btDefaultMotionState.h"
+	"LinearMath/btQuickprof.h"
+	"LinearMath/btIDebugDraw.h"
+	"LinearMath/btSerializer.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\vehicle\btraycastvehicle.h
+	"BulletDynamics/Dynamics/btRigidBody.h"
+	"BulletDynamics/ConstraintSolver/btTypedConstraint.h"
+	"btVehicleRaycaster.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"btWheelInfo.h"
+	"BulletDynamics/Dynamics/btActionInterface.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\vehicle\btvehicleraycaster.h
+	"LinearMath/btVector3.h"
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletdynamics\vehicle\btwheelinfo.h
+	"LinearMath/btVector3.h"
+	"LinearMath/btTransform.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\vehicle\btraycastvehicle.cpp
+	"LinearMath/btVector3.h"
+	"btRaycastVehicle.h"
+	"BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.h"
+	"BulletDynamics/ConstraintSolver/btJacobianEntry.h"
+	"LinearMath/btQuaternion.h"
+	"BulletDynamics/Dynamics/btDynamicsWorld.h"
+	"btVehicleRaycaster.h"
+	"btWheelInfo.h"
+	"LinearMath/btMinMax.h"
+	"LinearMath/btIDebugDraw.h"
+	"BulletDynamics/ConstraintSolver/btContactConstraint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletdynamics\vehicle\btwheelinfo.cpp
+	"btWheelInfo.h"
+	"BulletDynamics/Dynamics/btRigidBody.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletfileloader\bchunk.cpp
+	"bChunk.h"
+	"bDefines.h"
+	"bFile.h"
+	<memory.h>
+	<string.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\bchunk.h
+	<stdint.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\bdefines.h
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\bfile.h
+	"bCommon.h"
+	"bChunk.h"
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\bcommon.h
+	<assert.h>
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btHashMap.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletfileloader\bdna.cpp
+	<assert.h>
+	"bDNA.h"
+	"bChunk.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\bdna.h
+	"bCommon.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletfileloader\bfile.cpp
+	"bFile.h"
+	"bCommon.h"
+	"bChunk.h"
+	"bDNA.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	"bDefines.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletfileloader\btbulletfile.cpp
+	"btBulletFile.h"
+	"bDefines.h"
+	"bDNA.h"
+	<memory.h>
+	<string.h>
+
+1448428655 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletfileloader\btbulletfile.h
+	"bFile.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"bDefines.h"
+	"LinearMath/btSerializer.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\bulletworldimporter\btbulletworldimporter.cpp
+	"btBulletWorldImporter.h"
+	"../BulletFileLoader/btBulletFile.h"
+	"btBulletDynamicsCommon.h"
+	"BulletCollision/Gimpact/btGImpactShape.h"
+	"BulletCollision/CollisionDispatch/btInternalEdgeUtility.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\bullet\bulletworldimporter\btbulletworldimporter.h
+	"LinearMath/btTransform.h"
+	"LinearMath/btVector3.h"
+	"LinearMath/btAlignedObjectArray.h"
+	"LinearMath/btHashMap.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\linearmath\btalignedallocator.cpp
+	"btAlignedAllocator.h"
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\linearmath\btconvexhull.cpp
+	<string.h>
+	"btConvexHull.h"
+	"btAlignedObjectArray.h"
+	"btMinMax.h"
+	"btVector3.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\linearmath\btgeometryutil.cpp
+	"btGeometryUtil.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\linearmath\btquickprof.cpp
+	"btQuickprof.h"
+	<sys/sys_time.h>
+	<sys/time_util.h>
+	<stdio.h>
+	<stdio.h>
+	<Xtl.h>
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+	<stdio.h>
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\bullet\linearmath\btserializer.cpp
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\blenderimport.cpp
+	"BlenderImport.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\blenderimport.h
+	"PhysicsSim.h"
+	<irrlicht.h>
+	<btBulletDynamicsCommon.h>
+	<BulletCollision/Gimpact/btGImpactShape.h>
+	<BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h>
+	<BulletWorldImporter/btBulletWorldImporter.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\physicssim.h
+	<vector>
+	<iostream>
+	<irrlicht.h>
+	<irrString.h>
+	<btBulletDynamicsCommon.h>
+	<BulletCollision/Gimpact/btGImpactShape.h>
+	<BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h>
+	"Joint.h"
+	"Sphere.h"
+	"Capsule.h"
+	"Box.h"
+	"Cylinder.h"
+	"Cone.h"
+	"TriMesh.h"
+	"ConvexHull.h"
+	"Terrain.h"
+	"BlenderImport.h"
+	<util.h>
+	<iostream>
+	<sstream>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\vector3d.h
+	"irrMath.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ireferencecounted.h
+	"irrTypes.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\position2d.h
+	"vector2d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\heapsort.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ematerialtypes.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ematerialflags.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\svertexindex.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ehardwarebufferflags.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eprimitivetypes.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\path.h
+	"irrString.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ecullingtypes.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\edebugscenetypes.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\edriverfeatures.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\edrivertypes.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eguialignment.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eguielementtypes.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\emeshwriterenums.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\emessageboxflags.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\escenenodeanimatortypes.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\escenenodetypes.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eterrainelements.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\fast_atof.h
+	"irrMath.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sexposedvideodata.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ilogger.h
+	"IReferenceCounted.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\keycodes.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eattributes.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ibonescenenode.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\eshadertypes.h
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguibutton.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguicheckbox.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguicombobox.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguicontextmenu.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguifontbitmap.h
+	"IGUIFont.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiimage.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguimeshviewer.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiscrollbar.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguispinbox.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguitoolbar.h
+	"IGUIElement.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\slight.h
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshscenenode.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iosoperator.h
+	"IReferenceCounted.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\edevicetypes.h
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\itimer.h
+	"IReferenceCounted.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sceneparameters.h
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\itextscenenode.h
+	"ISceneNode.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\skeymap.h
+	"Keycodes.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1448428657 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\lib\include\irrlicht\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\joint.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\physicalobject.h
+	<cmath>
+	<irrlicht.h>
+	<btBulletDynamicsCommon.h>
+	"Joint.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\sphere.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\capsule.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\box.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\cylinder.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\cone.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\trimesh.h
+	"PhysicalObject.h"
+	<BulletCollision/Gimpact/btGImpactShape.h>
+	<BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\convexhull.h
+	"PhysicalObject.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\terrain.h
+	"PhysicalObject.h"
+	<BulletCollision/CollisionShapes/btHeightfieldTerrainShape.h>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\utils\util.h
+	<cstdlib>
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<fstream>
+	<vector>
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\box.cpp
+	"Box.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\capsule.cpp
+	"Capsule.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\cone.cpp
+	"Cone.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\convexhull.cpp
+	"ConvexHull.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\cylinder.cpp
+	"Cylinder.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\joint.cpp
+	"Joint.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\physicalobject.cpp
+	"PhysicalObject.h"
+
+1448466572 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\physicssim.cpp
+	"PhysicsSim.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\sphere.cpp
+	"Sphere.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\terrain.cpp
+	"Terrain.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\crabsim\trimesh.cpp
+	"TriMesh.h"
+
+1448466389 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\main.cpp
+	"CrabSim.h"
+	<iostream>
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\crabsim\crabsim.h
+	"PhysicsSim.h"
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\utils\matrix.cpp
+	"matrix.h"
+
+1448428656 c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\include\utils\matrix.h
+	<cstring>
+	<iostream>
+
+1448428665 source:c:\users\mk-nb\desktop\snowhero-irrlich-game-\exemplocrabsim\src\utils\util.cpp
+	"util.h"
+
