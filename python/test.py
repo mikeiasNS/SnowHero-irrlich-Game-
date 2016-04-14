@@ -21,16 +21,14 @@ def runServer():
 
 	inputSocket, address=serverSocket.accept()
 	print "Got connection with" , address
+
+	last_data = 0.0
 	while True:
 		data = inputSocket.recv(5)
-		if float(data) > 0:
+		if float(data) > 1.29:
 			k.tap_key("a")
-		elif float(data) < 0:
+		elif float(data) < -1.29:
 			k.tap_key("d")
-		elif float(data) == 0:
-			k.tap_key("s")
-
-		last_data = float(data);
 
 
 		print "received [%s] \n " % data
