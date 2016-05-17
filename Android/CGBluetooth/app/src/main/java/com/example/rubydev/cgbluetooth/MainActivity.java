@@ -10,6 +10,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.os.ParcelUuid;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -54,12 +55,30 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         buttonPlay = (Button) findViewById(R.id.playPause);
 
         bAdapter = BluetoothAdapter.getDefaultAdapter();
+        Set<BluetoothDevice> lista = bAdapter.getBondedDevices();
+
+//        Log.d("ad", lista.size() + "");
+
+//        for (BluetoothDevice bd : lista) {
+//            Log.d(bd.getName(), bd.getAddress());
+//
+//            ParcelUuid[] uuids = bd.getUuids();
+//
+//            for (ParcelUuid uuid: uuids) {
+//                Log.d("TAG***", "UUID: " + uuid.getUuid().toString());
+//            }
+//        }
+
         device = bAdapter.getRemoteDevice("2C:D0:5A:22:BC:F7");
         uuid = UUID.fromString("4CC4A570-3212-11E3-BBA6-AC1945E34500");
         try {
+            Log.d("Debug***", "cheguei aqui0");
             socket = device.createRfcommSocketToServiceRecord(uuid);
+            Log.d("Debug***", "cheguei aqui");
             socket.connect();
+            Log.d("Debug***", "cheguei aqui2");
             output = socket.getOutputStream();
+            Log.d("Debug***", "cheguei aqui3");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -102,8 +121,8 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                         y_str = "0" + y_str;
                 }
 
-                output.flush();
-                output.write(y_str.getBytes());
+                    output.flush();
+                    output.write(y_str.getBytes());
             } catch (IOException e) {
                 e.printStackTrace();
             }
